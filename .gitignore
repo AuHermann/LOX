@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+*.class
+build/
+
 # Object files
 *.o
 *.ko

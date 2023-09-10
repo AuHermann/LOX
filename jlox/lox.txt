@@ -1,1 +1,3 @@
-(){}==>=<=//=
+print true;
+print "Hello world!";
+print 42;
